@@ -18,3 +18,9 @@ public class JavaExample {
         System.out.println(number+"^"+p+" = "+result);
     }
 }
+
+
+# using while loop
+
+
+# using pow() function
